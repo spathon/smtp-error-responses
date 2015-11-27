@@ -1,0 +1,8 @@
+{
+  "name": "error_responses",
+  "description": "Get different error responses depending on email user",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
