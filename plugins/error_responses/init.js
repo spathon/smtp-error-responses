@@ -53,6 +53,7 @@ exports.hook_rcpt_ok = (next, conn, params) => {
 }
 
 
+// When error occur: http://www.greenend.org.uk/rjk/tech/smtpreplies.html
 // hook_connect_init
 // hook_lookup_rdns
 // hook_connect
